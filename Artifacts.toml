@@ -1,113 +1,113 @@
 [[SuiteSparseGraphBLAS]]
-arch = "i686"
-git-tree-sha1 = "220fdcce17a804e529f0df210fc8eb9eaa55d662"
-libc = "musl"
+arch = "aarch64"
+git-tree-sha1 = "948eb9553838b5034efed92e5db5e4e23cf8570f"
+libc = "glibc"
 os = "linux"
 
     [[SuiteSparseGraphBLAS.download]]
-    sha256 = "03d9af80f0d959b5866c6cf43938a9a7596f351073669e474b6cd0061e218c7c"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+1/SuiteSparseGraphBLAS.v5.6.0.i686-linux-musl.tar.gz"
+    sha256 = "aeb234e6d063a25b3721aab7d00749a0037d8c8b5c89e8de17944c8b29b0d3ff"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+2/SuiteSparseGraphBLAS.v5.6.0.aarch64-linux-gnu.tar.gz"
 [[SuiteSparseGraphBLAS]]
 arch = "aarch64"
-git-tree-sha1 = "35bcd5bdecf5961ec033b763cfa03cb2c9337909"
+git-tree-sha1 = "cf83fb8d8f95e07fc4708017e25fb8f164ab1965"
 libc = "musl"
 os = "linux"
 
     [[SuiteSparseGraphBLAS.download]]
-    sha256 = "5986d69dab908d88411a562f5a4ecc89380f5a4a9660f2e072340e67d8597e62"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+1/SuiteSparseGraphBLAS.v5.6.0.aarch64-linux-musl.tar.gz"
-[[SuiteSparseGraphBLAS]]
-arch = "i686"
-git-tree-sha1 = "84aeb9753c9fa4540c36ff43b0eb07cdfc33db42"
-os = "windows"
-
-    [[SuiteSparseGraphBLAS.download]]
-    sha256 = "3d2de162f6092276dfbd0471368533e3aca2870be6c8d4bad637a67c45ecb09d"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+1/SuiteSparseGraphBLAS.v5.6.0.i686-w64-mingw32.tar.gz"
-[[SuiteSparseGraphBLAS]]
-arch = "x86_64"
-git-tree-sha1 = "736a32baf59c701ab70c6872b63a3003a92a50e7"
-os = "windows"
-
-    [[SuiteSparseGraphBLAS.download]]
-    sha256 = "e1bdce8ac19247c776e8cf8c288cc91668a798af68c104045f3386f08f0ae13c"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+1/SuiteSparseGraphBLAS.v5.6.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "4c2174a9e9c08f295b85a90cc592ca8392e636bc21e3320637f72d3e59b402f1"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+2/SuiteSparseGraphBLAS.v5.6.0.aarch64-linux-musl.tar.gz"
 [[SuiteSparseGraphBLAS]]
 arch = "armv7l"
-git-tree-sha1 = "241c8d8c145a23d4ac52ddb8b5b76c887030da51"
+git-tree-sha1 = "a444f14c8eddc4fdce6f36d6744619c61ac8d32e"
 libc = "glibc"
 os = "linux"
 
     [[SuiteSparseGraphBLAS.download]]
-    sha256 = "c33c76fd61281f1d9f2046a9cb2b797ec768f3ca2f82157d42cf0f485ebb380e"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+1/SuiteSparseGraphBLAS.v5.6.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "594330bbeedd917244a666bbeeddb52c01887898ba048650e1cd6b250d5c3e52"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+2/SuiteSparseGraphBLAS.v5.6.0.armv7l-linux-gnueabihf.tar.gz"
 [[SuiteSparseGraphBLAS]]
 arch = "armv7l"
-git-tree-sha1 = "d779479a592fbb99b813391abdb770d4c78e8868"
+git-tree-sha1 = "f46cef10039dc6b02e5efc5a21cf537aa4e2d1e0"
 libc = "musl"
 os = "linux"
 
     [[SuiteSparseGraphBLAS.download]]
-    sha256 = "10d62ccb497c7a5f50bd02cce96e30648902995c9085a652425cb47add4eb03e"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+1/SuiteSparseGraphBLAS.v5.6.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "6426e01fd96a878003c17db9c27ae4d7f009feb44d1b813e8727dd0f8248410d"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+2/SuiteSparseGraphBLAS.v5.6.0.armv7l-linux-musleabihf.tar.gz"
 [[SuiteSparseGraphBLAS]]
 arch = "i686"
-git-tree-sha1 = "6f16b0e4a59302a96198b23b65732cbb8a56674b"
+git-tree-sha1 = "0f484552ed1238b3d76817fa4b4f74a044d46600"
 libc = "glibc"
 os = "linux"
 
     [[SuiteSparseGraphBLAS.download]]
-    sha256 = "654a2c90d6948bc3c26e4b78544140526139b8d2a5f563b5ff09ca12191fd46f"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+1/SuiteSparseGraphBLAS.v5.6.0.i686-linux-gnu.tar.gz"
+    sha256 = "a5db9e119b16bd3cca4d9255d2cdcf7c5f313f604fa236db8679ec3c5ccb6310"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+2/SuiteSparseGraphBLAS.v5.6.0.i686-linux-gnu.tar.gz"
 [[SuiteSparseGraphBLAS]]
-arch = "x86_64"
-git-tree-sha1 = "2e9764f0a99e8c96745d44e943b4160b93cb813f"
-libc = "glibc"
+arch = "i686"
+git-tree-sha1 = "493aaf243d9b0cad938c52153fa98044f0bbc7d5"
+libc = "musl"
 os = "linux"
 
     [[SuiteSparseGraphBLAS.download]]
-    sha256 = "3d8cac965ce68d198b6ee7eb5ed0211ebba8d6974073711d65273dec9cbc4750"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+1/SuiteSparseGraphBLAS.v5.6.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "f628008ddbaa863b18c6b53867462349f27f8ca601dcb306c19a6da681a3caa7"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+2/SuiteSparseGraphBLAS.v5.6.0.i686-linux-musl.tar.gz"
+[[SuiteSparseGraphBLAS]]
+arch = "i686"
+git-tree-sha1 = "1cb9d654c7405ed036b7e10ffaee9fc12c1c7411"
+os = "windows"
+
+    [[SuiteSparseGraphBLAS.download]]
+    sha256 = "beedf2262292079e5c71078e831a528f94bc31a6f962f3979f7f15dd32f9fb10"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+2/SuiteSparseGraphBLAS.v5.6.0.i686-w64-mingw32.tar.gz"
 [[SuiteSparseGraphBLAS]]
 arch = "powerpc64le"
-git-tree-sha1 = "aa12f53d3731a85d2263618affe97853c622d0be"
+git-tree-sha1 = "7574b5042b256cbee4da5f38a55f903a270eb596"
 libc = "glibc"
 os = "linux"
 
     [[SuiteSparseGraphBLAS.download]]
-    sha256 = "a6a553cd219bf1be5fc9b28ee3e23e2994e97da21bdfbe8a5fe91b7de7f7ad8f"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+1/SuiteSparseGraphBLAS.v5.6.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "b329cfb1f67d5302c89534987f7830f726e02b7163e3aeab60160c45a78a308d"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+2/SuiteSparseGraphBLAS.v5.6.0.powerpc64le-linux-gnu.tar.gz"
 [[SuiteSparseGraphBLAS]]
 arch = "x86_64"
-git-tree-sha1 = "86a594c578f8ce647b048a1238c135c92bc006c9"
+git-tree-sha1 = "bd7ef925ef2fb8dfd38e59e71f51502c5ab144c7"
 os = "macos"
 
     [[SuiteSparseGraphBLAS.download]]
-    sha256 = "7277e570e9c339ed4f68d29a0149e597948b45320f8010c667bca8396028bb74"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+1/SuiteSparseGraphBLAS.v5.6.0.x86_64-apple-darwin14.tar.gz"
+    sha256 = "d09d53a0085e4b64a6416f595e479cdec14d92cf6eaa22fa1f2e322befc3dbbf"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+2/SuiteSparseGraphBLAS.v5.6.0.x86_64-apple-darwin14.tar.gz"
 [[SuiteSparseGraphBLAS]]
-arch = "aarch64"
-git-tree-sha1 = "0aee0c07b20515ec37e0faadc39974ab2f7b772d"
+arch = "x86_64"
+git-tree-sha1 = "b8dd0c76c6a2bf333644d27cac5bcb634056e2c7"
 libc = "glibc"
 os = "linux"
 
     [[SuiteSparseGraphBLAS.download]]
-    sha256 = "2790edd73b6891549570014a67ea5925f41750078b66d55a74b7abec665cc0df"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+1/SuiteSparseGraphBLAS.v5.6.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "a11a47f1cc71e3f99f2a73b3cd4a2b8c9eb10996b89895aaa73d41448c9e439a"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+2/SuiteSparseGraphBLAS.v5.6.0.x86_64-linux-gnu.tar.gz"
 [[SuiteSparseGraphBLAS]]
 arch = "x86_64"
-git-tree-sha1 = "0e097a3515942e0ae83c56490bea4c0b4378990a"
-os = "freebsd"
-
-    [[SuiteSparseGraphBLAS.download]]
-    sha256 = "2b6cd2c75965115a2460cf9829181e47ffc8dd286fecd60a84f92f84a442b805"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+1/SuiteSparseGraphBLAS.v5.6.0.x86_64-unknown-freebsd11.1.tar.gz"
-[[SuiteSparseGraphBLAS]]
-arch = "x86_64"
-git-tree-sha1 = "018256d2049b8a592c43431986df4a5f43f39560"
+git-tree-sha1 = "e22a9c937c6fb92b7ddd2708416a70b2276878c9"
 libc = "musl"
 os = "linux"
 
     [[SuiteSparseGraphBLAS.download]]
-    sha256 = "72360ef42ca68a5d92912612208862313a6ca7cfe84068fc9223408697b2ae43"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+1/SuiteSparseGraphBLAS.v5.6.0.x86_64-linux-musl.tar.gz"
+    sha256 = "a5cc7c5d561d334406190aef3fd491997ee090fedc53296adb5ad5cfb17d2c9d"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+2/SuiteSparseGraphBLAS.v5.6.0.x86_64-linux-musl.tar.gz"
+[[SuiteSparseGraphBLAS]]
+arch = "x86_64"
+git-tree-sha1 = "ce4e5aaf2174827d183e1af3b2047a230e7a7330"
+os = "freebsd"
+
+    [[SuiteSparseGraphBLAS.download]]
+    sha256 = "53ed9dbac32a9c3371b1a179d4a784243c74e2df04cf95c15593f2b15079ccb9"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+2/SuiteSparseGraphBLAS.v5.6.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[SuiteSparseGraphBLAS]]
+arch = "x86_64"
+git-tree-sha1 = "1851b4a550424ebcf73b4b15eb32b91176874e4b"
+os = "windows"
+
+    [[SuiteSparseGraphBLAS.download]]
+    sha256 = "c7d3ddbc81870a80edcdb11c294a4067cc75b7ff18e291803a8191b3cf855a8a"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparseGraphBLAS_jll.jl/releases/download/SuiteSparseGraphBLAS-v5.6.0+2/SuiteSparseGraphBLAS.v5.6.0.x86_64-w64-mingw32.tar.gz"
